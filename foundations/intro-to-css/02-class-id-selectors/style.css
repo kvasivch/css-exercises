@@ -1,7 +1,6 @@
 .odd-elements {
     background-color:rgb(255, 152, 152);
-    font-family: Verdana, DejaVu Sans, sans-serif;
-    
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 #number2{
     color:rgb(84, 84, 223);
